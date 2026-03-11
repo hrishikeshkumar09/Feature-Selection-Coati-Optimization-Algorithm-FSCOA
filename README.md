@@ -43,3 +43,6 @@ Ensure you have Python installed along with the following libraries:
 * scikit-learn
 * matplotlib
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
