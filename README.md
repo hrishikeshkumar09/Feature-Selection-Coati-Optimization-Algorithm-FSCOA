@@ -1,4 +1,4 @@
-# Feature-Selection-Coati-Optimization-Algorithm-FSCOA
+# Feature Selection implementing Coati Optimization Algorithm (FSCOA)
 
 ## Overview
 
